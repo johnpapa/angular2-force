@@ -7,6 +7,6 @@ import { Hero } from './hero.model';
   selector: 'toh-hero',
   templateUrl: 'hero.component.html'
 })
-export class HeroComponent implements OnInit {
+export class HeroComponent {
   @Input() hero: Hero;
 }
