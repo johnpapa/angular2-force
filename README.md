@@ -17,11 +17,13 @@ Other links:
 
 - [John's Angular 2 Pluralight Course](http://jpapa.me/a2ps1stlook) 
 - [Angular 2 App in 17 Minutes Live Coding Demo](https://johnpapa.net/17-minute-angular-2-app/)
-- [Ionic 2](http://ionic.io/2)
-- [NativeScript](http://www.nativescript.org)
-- [React Native](http://facebook.github.io/react-native/)
+- Mobile
+  - [Ionic 2](http://ionic.io/2)
+  - [NativeScript](http://www.nativescript.org)
+  - [React Native](http://facebook.github.io/react-native/)
 - [Electron](http://electron.atom.io/)
-- [Angular Material](https://material.angular.io/)](https://puppy-love.firebaseapp.com/)
+- [Angular Material](https://material.angular.io/)
+  - [Angular material demo](https://puppy-love.firebaseapp.com/)
 - [TypeScript](http://typescriptlang.org)
 - [Angular 2 Docs](https://angular.io/docs/ts/latest/)
 - [Angular 2 Tutorial](https://angular.io/docs/ts/latest/tutorial/)
